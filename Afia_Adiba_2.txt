@@ -1,0 +1,100 @@
+Meet with your team to discuss the details of how you are going to approach the group assignment. 
+The more details you provide the higher the chance of getting credit for this bonus assignment. 
+
+Question 1:
+How often are you going to meet?
+Answer:At least twice per week for progress updates
+
+Question 2:
+Which tools and communication technology are you going to use?
+Answer: GitHub for version control and code collaboration, iMessage group for quick communication, FaceTime for weekly meetings, and Google Docs/Sheets for planning and sharing notes.
+
+Question 3:
+Who is going to complete which tasks?
+Answer: Repo Owner Maya: responsible for reviewing pull requests and merging into main.
+
+Afia : data ingestion (.py and .sh scripts for downloading data daily).
+
+Lauren and Maya: database integration (.sql scripts for Postgres).
+
+Lauren: API development with Flask.
+
+Afia: dashboard creation with Dash.
+
+All members: contribute to presentation and runbook.
+
+Question 4:
+What are the expected completion dates of each task?
+Answer:
+a. Get data from a URL on a daily basis and store it in a file
+
+Initial completion: Week Sept 18
+
+Ongoing: Script runs daily to fetch and save data.
+
+b. Insert data into a Postgres database when it lands on disk
+
+Initial completion: Nov 6
+
+Ongoing: Script runs daily right after data retrieval.
+
+c. Prepare data in a format for visualization / analysis
+
+Initial completion: Nov 13
+
+Ongoing: Update script weekly as schema evolves.
+
+d. Generate a Dash dashboard with metrics about the data and pipeline’s operations
+
+Prototype ready: Oct 23
+
+Final dashboard integrated: Nov 20
+
+e. Serve data through a Flask API
+
+Prototype ready: Oct 23
+
+Final API integrated: Nov 20
+
+f. Extract data through the API
+
+Testing begins: Nov 20
+
+Final integration: Nov 25
+
+Question 5:
+Who is going to be the repo owner?
+Answer:
+Maya Hall
+
+Question 6:
+What is your process to accomplish tasks and review code?
+Answer:
+
+1.Each member works on a feature branch.
+
+2. When ready, create a pull request into main.
+
+3. Repo owner reviews the code, runs it locally, and merges if it works.
+
+4. If issues exist, Repo owner requests changes before merging.
+
+
+Question 7:
+How are you going to hold each team member accountable to stay on top of their tasks?
+Answer:
+Weekly stand-up meetings, a shared meetings.txt file in the repo tracking action items and deadlines, and visible GitHub commits. Each task has a responsible owner and deadline, so unfinished work is clear.
+
+Question 8:
+Set up the assignment repo per the assignment document and invite all members and ballingsclass.
+Clone the repo to your disk.
+Copy the file from your firstname_lastname repo, to your assignment folder.
+Using commands everyone should push this file with their answers to the assignment repo after creating a branch 
+called plan_lastname, and do a pull request, which the repo owner will execute.
+We will check the repo to see if this is done correctly.
+Don't forget to also push to your firstname_lastname repo and do a pull request.
+
+
+
+
+
