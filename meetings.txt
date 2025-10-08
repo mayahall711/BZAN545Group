@@ -1,0 +1,25 @@
+Meeting Notes
+Date: October 1, 2025
+
+Participants: Maya, Afia, Lauren
+
+Agenda: 
+1. The team discussed which tasks to prioritize based on recent learning progress.
+
+2. The repository owner Maya  created a new task list for the group.
+
+3. Since the team recently learned about data automation using crontab, the group decided to start with implementing that task.
+
+4. One team member Afia took responsibility for setting up the automated data collection system.
+
+
+Action Points:
+
+1. The assigned team member Afia executed the data automation task successfully immediately.
+
+2. The automation script is now running daily at midnight and collecting data from the provided link as intended.
+
+Next steps:
+
+Monitor the log file for consistency and errors.
+Next step is based on the class materials, so we are waiting for that.
