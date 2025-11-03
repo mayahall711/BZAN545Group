@@ -23,3 +23,31 @@ Next steps:
 
 Monitor the log file for consistency and errors.
 Next step is based on the class materials, so we are waiting for that.
+Note taker: Afia
+
+Meeting Notes
+Date: October 28, 2025
+
+Participants: Maya, Afia, Lauren
+
+Agenda:
+
+The team explored the existing Dash code to experiment with data visualization.
+
+Each member worked on collecting data in CSV files to test visualizations using different data columns.
+
+The goal was to understand how varying data inputs affect visualization outcomes.
+
+Action Points:
+
+All team members successfully created and tested different visualizations using their respective CSV datasets.
+
+The exercise helped strengthen the team’s understanding of Dash and data manipulation.
+
+Next Steps:
+
+The team will wait to begin the SQL lessons before proceeding to the group assignment in full.
+
+Continue exploring additional visualization options to refine the project setup.
+
+Note Taker: Afia
