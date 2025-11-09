@@ -51,3 +51,31 @@ The team will wait to begin the SQL lessons before proceeding to the group assig
 Continue exploring additional visualization options to refine the project setup.
 
 Note Taker: Afia
+
+
+Meeting Notes
+Date: November 6, 2025
+
+Participants: Maya, Afia, Lauren
+
+Agenda:
+
+The team installed SQL as part of setting up the next phase of the project.
+
+During the session, all members encountered issues running the SQL code. The team discussed possible causes and began troubleshooting to identify and resolve the problem.
+
+The overall goal remains to create a functional SQL data pipeline that will support the development of a project dashboard.
+
+Action Points:
+
+All members successfully installed SQL but faced similar errors when attempting to run the code.
+
+The team collaborated to review setup steps and compare configurations to locate the root of the issue.
+
+Next Steps:
+
+Continue troubleshooting SQL runtime issues until resolved.
+
+Once the issue is fixed, proceed to build the SQL data pipeline to generate data for the dashboard.
+
+Note Taker: Afia.
