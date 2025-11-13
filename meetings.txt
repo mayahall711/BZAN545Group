@@ -79,3 +79,36 @@ Continue troubleshooting SQL runtime issues until resolved.
 Once the issue is fixed, proceed to build the SQL data pipeline to generate data for the dashboard.
 
 Note Taker: Afia.
+
+
+Meeting Notes
+Date: November 11, 2025
+
+Participants: Maya, Afia, Lauren
+
+Agenda:
+
+The team met to review progress on the SQL setup and data pipeline.
+Since the last session, all SQL issues were successfully resolved. Afia has completed the creation of the SQL database pipeline, which now serves as the foundation for the project’s data flow.
+
+Maya is currently working on the presentation component, and both Maya and Lauren will provide the Flask API and Dash code for Afia to test and integrate with the SQL data.
+
+Action Points:
+
+SQL setup and runtime issues have been fully resolved.
+
+Afia completed the SQL database pipeline and verified its functionality.
+
+Maya is preparing the project presentation.
+
+Maya and Lauren will share the Flask API and Dash code with Afia for integration testing.
+
+Next Steps:
+
+Afia will test the Flask API and Dash code once provided.
+
+The team will integrate all components to build the full data dashboard.
+
+Maya will continue developing the presentation for project review.
+
+Note Taker: Afia
