@@ -1,0 +1,1 @@
+0 0 * * * /opt/anaconda3/bin/python3 /Users/adidas13/Downloads/My_python/Collect_data.py >> /Users/adidas13/Downloads/My_python/collect_log.txt 2>&1
