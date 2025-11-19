@@ -112,3 +112,41 @@ The team will integrate all components to build the full data dashboard.
 Maya will continue developing the presentation for project review.
 
 Note Taker: Afia
+
+
+Meeting Notes
+Date: November 18, 2025
+
+Participants: Maya, Afia, Lauren
+
+Agenda:
+
+The team met to review the continued progress on the dashboard development, presentation materials, and system architecture.
+
+Maya has already begun working on the presentation slides. Afia shared a draft sketch of the overall system architecture, and Maya will refine and finalize it on the slides, making additional adjustments as needed.
+
+Lauren provided the Flask and Dash code required for the dashboard visualizations. Afia successfully implemented the code, and everything is functioning as expected. The team agreed that additional components—such as regression output and other analytical features—may be added to the dashboard as the project evolves. Overall, the project remains on schedule.
+
+Action Points:
+
+Maya started developing the presentation slides.
+
+Afia provided the initial architecture sketch for the project.
+
+Maya will finalize the architecture diagram on the slides and incorporate any necessary enhancements.
+
+Lauren delivered the Flask API and Dash code.
+
+Afia implemented the provided code into the system, and it is currently working as intended.
+
+The team may continue expanding the dashboard with new elements like regression output.
+
+Next Steps:
+
+Maya will continue building and refining the presentation for the project review.
+
+The team will explore additional features to enhance the dashboard.
+
+Afia will support ongoing integration and testing as new dashboard components are developed.
+
+Note Taker: Afia
